@@ -1,3 +1,4 @@
+### 整合了一些平时学习的资源，越发的觉得自己不足的地方还有很多很多，每个方面都需要提升，希望自己每天可以不间断的学习，一点点的进步起来
 
 ## 面试题总结
 [招聘一个靠谱的iOS](https://github.com/ChenYilong/iOSInterviewQuestions/tree/master/01《招聘一个靠谱的iOS》面试题参考答案)</br>
