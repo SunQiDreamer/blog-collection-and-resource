@@ -5,3 +5,6 @@
 
 ## Cocoapods
 [Cocoapods 应用第一部分 - Xcode 创建 .framework 相关](http://www.cocoachina.com/ios/20150906/13323.html)</br>
+[Cocoapods 应用第二部分-私有库相关](http://www.cocoachina.com/ios/20150916/13471.html)</br>
+[iOS:最详细的创建CocoaPods私有库教程](http://www.cnblogs.com/XYQ-208910/p/6214066.html)</br>
+[iOS CocoaPods组件平滑二进制化解决方案 ](http://www.yiqixiabigao.com/ios-cocoapodszu-jian-ping-hua-er-jin-zhi-hua-fang-an-ji-xiang-xi-jiao-cheng/)</br>
